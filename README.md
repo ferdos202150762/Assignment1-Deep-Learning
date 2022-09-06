@@ -1,8 +1,18 @@
-# Assessment 1
+# Assessment 1: Permutation Invariant and Permutation Equivariant Functions
+
+
+
+## Summary
+
+This assignment develops an application of Permutation Invariant and Permutation Equivariant Function approximation with Deep Learning Models. 
+
+
 
 ## Datasets for this assessment
 
 https://www.dropbox.com/sh/sztempv7hymr3ck/AADjIBGNJgKl9Ox7LcpKlgR7a?dl=0
+
+
 
 ## P1 - permutation-invariant functions
 
