@@ -58,18 +58,7 @@ Implement the feedforward neural network defined above. Explain your implementat
 
 Train the neural network with <img src="https://render.githubusercontent.com/render/math?math=(L,w)=(2,5)">. Show the training and validation loss versus the number of epochs. Compute the test MSE value. Repeat this for <img src="https://render.githubusercontent.com/render/math?math=(L,w)"> set to (2,10), (2,100), (2,200), (3,5), (3,10), (3,100), and (3,200). Discuss the obtained results. 
 
-## Marking scheme
 
-| Problem | Full points | Max points |
-|:--------|-----------:|-----------:|
-| P1-1  | neural network implementation | 20 |
-| P1-2  | training and evaluation | 20 |
-| P1-3  | choice of learning rate |            5 |
-| P1-4  | choice of activation function  |            5 |
-| P1-5  | neural network comparison |            20 |
-| P2-1  | neural network implementation |  20 |
-| P2-1  | training and evaluation |  10 |
-| Total |         |          100 |
 
 ## Submission date and guidelines
 
